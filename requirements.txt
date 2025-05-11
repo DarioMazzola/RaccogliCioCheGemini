@@ -1,0 +1,4 @@
+flask
+pyautogui
+google-genai
+
